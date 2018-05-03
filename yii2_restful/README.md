@@ -117,4 +117,4 @@ RESTFUL 使用方法
 ![https://raw.githubusercontent.com/iiYii/yii2-rest-demo/master/temp-image/QQ20150123161819.png](https://raw.githubusercontent.com/iiYii/yii2-rest-demo/master/temp-image/QQ20150123161819.png)
 
 ### DELETE
-![https://raw.githubusercontent.com/iiYii/yii2-rest-demo/master/temp-image/QQ20150123161547.png](https://raw.githubusercontent.com/iiYii/yii2-rest-demo/master/temp-image/QQ20150123161547.png)
+ssss![https://raw.githubusercontent.com/iiYii/yii2-rest-demo/master/temp-image/QQ20150123161547.png](https://raw.githubusercontent.com/iiYii/yii2-rest-demo/master/temp-image/QQ20150123161547.png)
